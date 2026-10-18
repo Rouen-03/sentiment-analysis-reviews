@@ -1,0 +1,17 @@
+# data files stay local
+data/
+
+# trained models
+models/
+
+# python
+__pycache__/
+*.pyc
+venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# os files
+.DS_Store
+Thumbs.db
