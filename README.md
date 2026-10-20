@@ -103,7 +103,7 @@ Labels are derived from star ratings:
 
 ## Running it
 
-    git clone https://github.com/<your-username>/sentiment-analysis-reviews.git
+    git clone https://github.com/Rouen-03/sentiment-analysis-reviews.git
     cd sentiment-analysis-reviews
     pip install -r requirements.txt
 
